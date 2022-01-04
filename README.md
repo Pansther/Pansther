@@ -14,7 +14,6 @@
 
 ## Here is my portfolio website.
 ### https://werawit-port.herokuapp.com/
-(I make by ownself with MERN stack)
 
 <!--
 **Pansther/Pansther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
