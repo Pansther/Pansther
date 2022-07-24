@@ -1,19 +1,19 @@
 ### Hi there 👋
-- 😊 I’m studying Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
+- 😊 I’m Front-end Developer.
 - 🌱 I’m Interesting about web development with **MERN stack**.
-- 🍔 You can contact me with **werawit.boat@gmail.com**.
+- 🍔 You can contact me with **werawit.srklw@gmail.com**.
 
 ***
 
-### สวัสดีครับ 👋
-- 🍕 ผมนายวีรวิทย์ ศิรกุลวัฒน์ กำลังศึกษาอยู่ที่ภาควิชาวิศวกรรมคอมพิวเตอร์ คณะวิศวกรรมศาสตร์ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง
-- 😊 ในปัจจุบันผมกำลังศึกษาเกี่ยวกับการพัฒนาเว็บด้วย **MERN stack**
-- 🎈 สามารถติดต่อผมได้ที่อีเมลล์ **werawit.boat@gmail.com**
-
-***
-
-## Here is my portfolio website.
+<!-- ## Here is my portfolio website.
 ### https://werawit-port.herokuapp.com/
+-->
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pansther)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Pansther/Pansther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
