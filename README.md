@@ -13,7 +13,7 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pansther)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pansther&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Pansther/Pansther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
