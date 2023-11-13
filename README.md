@@ -1,6 +1,5 @@
 ## Hi there 👋
-- 😊 I’m Front-end Developer.
-- 🌱 I’m Interesting about web development with **MERN stack**.
+- 😊 I’m Frontend Developer who focusing on React and Next.
 - 🍔 You can contact me with **werawit.srklw@gmail.com**.
 
 <div>
