@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 😊 I’m Frontend Developer who focusing on React and Next.
-- 🍔 You can contact me with **werawit.srklw@gmail.com**.
+- 🍔 You can contact me at **werawit.srklw@gmail.com**.
 
 <div>
   <a href="https://werawit-portfolio.vercel.app" target="_blank">
