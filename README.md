@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 😊 I’m Frontend Developer who focusing on React and Next.
+- 😊 I'm a Full Stack Developer who focusing on Next.js.
 - 🍔 You can contact me at **werawit.srklw@gmail.com**.
 
 <div>
