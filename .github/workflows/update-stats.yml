@@ -24,7 +24,7 @@ jobs:
           card: stats
           options: username=Pansther&show_icons=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
@@ -32,7 +32,7 @@ jobs:
           card: top-langs
           options: username=Pansther&layout=compact&langs_count=6
           path: profile/top-langs.svg
-          token: ${{ secrets.GH_STATS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
