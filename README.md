@@ -41,11 +41,11 @@
   </div>
 </div>
 
+<hr />
+
+![Top Langs](https://raw.githubusercontent.com/Pansther/Pansther/refs/heads/main/profile/stats.svg)
 <br />
-
-<!-- ### [Portfolio Website](http://werawit-portfolio.vercel.app/) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pansther&hide=css,vhdl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://raw.githubusercontent.com/Pansther/Pansther/refs/heads/main/profile/top-langs.svg)
 
 <!--
 **Pansther/Pansther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
